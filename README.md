@@ -7,8 +7,6 @@ College Project - Simple Malware Scanner
       (This is informative because creating a domain name is so vast
       and is hard to detect all phishing sites through their names)
       
-      
 College: Transilvania University of Brasov, Romania
 Course:  Programming techniques
 Coord:   Danciu Gabriel
-  
