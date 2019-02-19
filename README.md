@@ -9,4 +9,6 @@ College Project - Simple Malware Scanner
 
 College: Transilvania University of Brasov, Romania
 Course:  Programming techniques
+Coord:   Danciu Gabriel
+
 
