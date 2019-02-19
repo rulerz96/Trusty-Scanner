@@ -8,3 +8,5 @@ College Project - Simple Malware Scanner
       and is hard to detect all phishing sites through their names)
 
 College: Transilvania University of Brasov, Romania
+Course:  Programming techniques
+
