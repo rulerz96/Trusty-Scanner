@@ -22,7 +22,17 @@ Coord:   Danciu Gabriel
 ## Notes
 
 - About Page
-File database is made from https://virusshare.com/
+
+File database is made from https://virusshare.com/.
+
 Website database is made from random sites, it's not very precise.
 
 ![alt text](images_readme/about_trusty.png)
+
+- Website Option
+
+![alt text](images_readme/website_trusty.png)
+
+- File Option
+
+![alt text](images_readme/file_trusty.png)
