@@ -18,3 +18,11 @@ College: Transilvania University of Brasov, Romania
 Course:  Programming techniques
 
 Coord:   Danciu Gabriel
+
+## Notes
+
+- About Page
+File database is made from https://virusshare.com/
+Website database is made from random sites, it's not very precise.
+
+![alt text](images_readme/about_trusty.png)
