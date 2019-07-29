@@ -18,3 +18,6 @@ College: Transilvania University of Brasov, Romania
 Course:  Programming techniques
 
 Coord:   Danciu Gabriel
+
+## Notes
+- About Page
